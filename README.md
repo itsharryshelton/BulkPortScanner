@@ -31,3 +31,17 @@ This application isn't signed, just compiled to make it easier than running the 
 
 By using this tool, you accept that you have full authority to scan the public IP from the owner of it.
 -----
+
+**Development Roadmap**
+
+Completed v1.0.2 - Refreshed GUI Interface + Prompt for Save Locations
+
+TBA - Custom Port Detection + Quick Select Top 100 Ports
+
+TBA - Progress Bar on completion length
+
+TBA - NMap Parallel Processing
+
+TBA - Further Reporting, such as flagging ports of concern
+
+TBA - Reviewing Results via GUI + Filtering
