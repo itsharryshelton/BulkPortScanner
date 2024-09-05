@@ -1,7 +1,7 @@
 # Bulk Port Scanner
 Designed to check customer's IPs via CSV to see if they have the top 100 ports open.
 
-**Requires ** NMap to be installed onto your device to call the scan function, currently this only scans top 100 ports, otherwise it'll be a very slow process script - https://nmap.org/
+**Requires** NMap to be installed onto your device to call the scan function, currently this only scans top 100 ports, otherwise it'll be a very slow process script - https://nmap.org/
 
 Example Export:
 ![image](https://github.com/user-attachments/assets/0c382e60-b655-4133-84dc-e7e551ee4b96)
