@@ -26,6 +26,8 @@ Requires only NMap to be installed, doesn't send results or information anywhere
 
 Fully private. Always.
 
+<a href="https://github.com/itsharryshelton/BulkPortScanner/releases">Download the Latest Version Here</a>
+
 ## 🚄 Speed of Testing
 
 Bulk Port Scanner uses the NMap function for the core process of scanning, in ideal testing NMap can scan a host within 1/5th of a second for a port.
