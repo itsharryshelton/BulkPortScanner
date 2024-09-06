@@ -22,9 +22,9 @@ Super simple tool for checking for exposed ports via CSV list with NMap, with qu
 
 ## 👾 Why Bulk Port Scanner?
 
-Requires only NMap to be installed, doesn't send results or information anywhere. 
+Fast Simple Scanner - Fully private. Always.
 
-Fully private. Always.
+Source Code is uploaded so feel free review and make changes to suit how you require it.
 
 <a href="https://github.com/itsharryshelton/BulkPortScanner/releases">Download the Latest Version Here</a>
 
@@ -35,6 +35,12 @@ Bulk Port Scanner uses the NMap function for the core process of scanning, in id
 To scan every single port, will take longer however, so I recommend you stick to the top 100 which takes a couple seconds per IP or enter the ports you want to scan.
 
 There is a built-in 1 second delay between IP, this is on purpose to ensure no overloading happens - feel free to remove if you want it even quicker.
+
+## 📖 Prerequisites
+
+Main Application for Scanning - You will need to install NMap for the function to work - https://nmap.org/
+
+Results Reviewer Beta Feature - Currently still requires Python to be installed onto the machine while this feature is in beta
 
 ---
 
@@ -54,7 +60,7 @@ Completed v1.0.2 - Refreshed GUI Interface + Prompt for Save Locations
 
 Completed v1.0.3 - Custom Port Detection + Quick Select Top 100 Ports
 
-Completed v1.0.3 - Reviewing Results via GUI + Filtering
+Inital Beta Released in v1.0.3 - Reviewing Results via GUI + Filtering
 
 TBA - Progress Bar on completion length
 
