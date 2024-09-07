@@ -3,7 +3,7 @@
 <a href="https://github.com/itsharryshelton/BulkPortScanner">
 </a>
 <h1 align="center">Bulk Port Scanner</h1>
-<h4 align="center">Latest Version: v1.0.3</h4>
+<h4 align="center">Latest Version: v1.0.4</h4>
 <p align="center">
 Simple, Fast.
 <br/>
